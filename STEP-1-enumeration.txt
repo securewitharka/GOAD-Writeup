@@ -1,0 +1,6 @@
+# Full Nmap scan:
+### nmap -sC -sV -Pn -p- -oA full_scan 192.168.56.10-12,22-33 -vv
+
+# enum4linux on 192.168.56.11:
+### enum4linux 192.168.56.11 >> enum4linux-11.txt
+
